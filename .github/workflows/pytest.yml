@@ -67,7 +67,4 @@ jobs:
           name: pytest-report-html
           path: report.html
 
-      - name: 🔄 Actualizar Codespaces después del push
-        run: |
-          git remote set-url origin https://github.com/${{ github.repository }}.git
-          git pull origin main --rebase
+     
