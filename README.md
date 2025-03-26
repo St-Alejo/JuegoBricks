@@ -1,5 +1,5 @@
 # 🧪 Pruebas Unitarias con Pytest en JuegoBricks
-
+Por: Steven Alejandro Ortega codigo 886695
 ## 📦 Instalación de Dependencias
 
 Ejecuta los siguientes comandos para instalar las herramientas necesarias:
